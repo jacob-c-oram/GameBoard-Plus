@@ -1,0 +1,16 @@
+white = (255, 255, 255)
+black = (0, 0, 0)
+red = (255, 0, 0)
+orange = (255, 140, 0)
+background_color = (255, 255, 255)
+grid_color = (0, 0, 0)
+number_color = (0, 0, 0)
+height = 585
+width = 585
+window_height = 650
+line_width = 5
+window_width_game = 5
+num_rows = 9
+num_cols = 9
+square_size = 65
+spacing = 50
